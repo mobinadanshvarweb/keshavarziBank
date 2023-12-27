@@ -4,5 +4,5 @@
 # keshavarziBank
 [DEMO](https://keshavarzi-bank.vercel.app/)
 - Developed By MobinaDanshvar
-- Technologies Used - Html5, Css3, JavaScript
+- Technologies Used - Html5, Tailwind , React
 - Role - Frontend
